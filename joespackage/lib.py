@@ -31,4 +31,4 @@ def try_me():
 
 
 if __name__ == "__main__":
-    run_me()
+    try_me()
